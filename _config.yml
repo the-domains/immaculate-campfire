@@ -1,0 +1,14 @@
+layout_spectrum: 0.9070374311413616
+typography_spectrum: 0.9105618537869304
+color:
+  brandStrength: 0.5197349861264229
+  lightness: 0.9754530859645456
+  saturation: 0.4813911053352058
+  rhythmicContrast: 0.6268772254697978
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: immaculate campfire
